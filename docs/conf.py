@@ -13,3 +13,8 @@ html_js_files = [
     'chatbot.js',
 ]
 html_favicon = '_static/favicon.png'
+
+html_meta = {
+    'msvalidate.01': 'your-verification-code-here',
+}
+
