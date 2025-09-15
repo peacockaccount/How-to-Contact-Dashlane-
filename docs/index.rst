@@ -3,7 +3,7 @@ How to Contact Dashlane
 
 Dashlane is a leading password management service that helps users store, organize, and secure their passwords and other sensitive information. As with any online service, there may be times when you need to get in touch with their support team for assistance with an issue or to ask questions about their services. Fortunately, Dashlane offers several ways to contact their support team. This guide will cover various methods to contact Dashlane effectively.
 
-.. image:: login-noww.png
+.. image:: click-here.png
    :alt: My Project Logo
    :width: 400px
    :align: center
