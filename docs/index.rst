@@ -1,4 +1,14 @@
-How to Contact Dashlane
+.. raw:: html
+
+   <meta name="msvalidate.01" content="your-verification-code-here" />
+
+Welcome to Your Sphinx Documentation
+=====================================
+
+This is the landing page for your documentation. You can edit this page in the `index.rst` file.
+
+
+How to Contact Dashlane?
 =========================
 
 Dashlane is a leading password management service that helps users store, organize, and secure their passwords and other sensitive information. As with any online service, there may be times when you need to get in touch with their support team for assistance with an issue or to ask questions about their services. Fortunately, Dashlane offers several ways to contact their support team. This guide will cover various methods to contact Dashlane effectively.
