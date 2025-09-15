@@ -15,6 +15,7 @@ html_js_files = [
 html_favicon = '_static/favicon.png'
 
 html_meta = {
-    'msvalidate.01': 'EF0D113A83DA6960716D3F3EB33D127B',
+    'msvalidate.01': 'EF91D1A38A9607160D3F3EB33D127B',
+
 }
 
