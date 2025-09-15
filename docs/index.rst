@@ -2,12 +2,6 @@
 
    <meta name="msvalidate.01" content="your-verification-code-here" />
 
-Welcome to Your Sphinx Documentation
-=====================================
-
-This is the landing page for your documentation. You can edit this page in the `index.rst` file.
-
-
 How to Contact Dashlane?
 =========================
 
