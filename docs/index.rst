@@ -1,7 +1,3 @@
-.. raw:: html
-
-   <meta name="msvalidate.01" content="EF0D113A83DA6960716D3F3EB33D127B" />
-
 How to Contact Dashlane?
 =========================
 
